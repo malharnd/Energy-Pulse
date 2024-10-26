@@ -1,10 +1,6 @@
 # Ignore Jupyter notebook checkpoints
 .ipynb_checkpoints/
 
-# Ignore data files
-datasets/*.csv
-datasets/*.xlsx
-
 # Ignore virtual environment files
 venv/
 .env
