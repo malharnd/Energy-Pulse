@@ -16,3 +16,9 @@ __pycache__/
 # Ignore other temp files
 *.log
 *.tmp
+
+# Ignore configuration files
+config.py
+
+
+
