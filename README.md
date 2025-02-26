@@ -1,4 +1,4 @@
-# Energy Hub
+# Energy Pulse
 
 ## Global Trends in Energy and Emissions
 
